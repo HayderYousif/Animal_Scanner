@@ -3,7 +3,7 @@ Human/Animal/Empty camera trap sequence labeling
 
 I recommend to copy the program shorcut into a folder and run it from that folder to keep your desktop clean.
 
-![Alt text](https://github.com/HayderYousif/Animal_Scanner/Fig_2.png)
+![Alt text](https://github.com/HayderYousif/raw/master/Animal_Scanner/Fig_2.png)
 
 # GUI:
 
