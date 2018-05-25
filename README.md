@@ -2,7 +2,9 @@
 Human/Animal/Empty camera trap sequence labeling
 
 I recommend to copy the program shorcut into a folder and run it from that folder to keep your desktop clean.
-![alt text](https://github.com/HayderYousif/Animal_Scanner/Fig_2.png)
+
+![Alt text](https://github.com/HayderYousif/Animal_Scanner/Fig_2.png)
+
 # GUI:
 
 1- Browse for your images folder. Note that the folder/subfolder name should not have space. The program will process the images and separate them into sequences.
